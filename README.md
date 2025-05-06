@@ -54,7 +54,20 @@ Traditional blood donation systems often lack integration and real-time updates.
    * Start Apache and MySQL servers.
    * Access the app via `http://localhost/BloodConnect`.
 ---
+## User
+![Screenshot (77)](https://github.com/user-attachments/assets/023cfc14-6fea-4881-a609-1434427d3cd3)
 
-![Screenshot (77)](https://github.com/user-attachments/assets/6144ff4c-2ef0-4cec-9d14-bd5ed16546b5)
+![Screenshot (82)](https://github.com/user-attachments/assets/93ab1ae6-6155-4df4-88b6-874a21d802ca)
 
+![Screenshot (84)](https://github.com/user-attachments/assets/d42ff9a2-8db1-422c-93e4-998570b8e31c)
 
+![Screenshot (102)](https://github.com/user-attachments/assets/64afc4a3-4cad-4db0-903e-7ad7113a5cbe)
+
+![Screenshot (103)](https://github.com/user-attachments/assets/500b27c0-2185-4a5a-ab74-4572ab05b744)
+
+![Screenshot (89)](https://github.com/user-attachments/assets/a0d7cb61-00f9-4c3e-b4f6-c0e60280277c)
+
+## Admin
+![Screenshot (93)](https://github.com/user-attachments/assets/f3aad7e5-6825-42cf-bb24-06b8d1cfd2f5)
+
+![Screenshot (96)](https://github.com/user-attachments/assets/da73f8c6-81f5-4432-a6ad-1b228147c3e0)
