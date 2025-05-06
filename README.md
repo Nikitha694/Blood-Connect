@@ -39,7 +39,7 @@ Traditional blood donation systems often lack integration and real-time updates.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/BloodConnect.git
+   git clone https://github.com/Nikitha694/BloodConnect.git
    ```
 
 2. **Set up the database**
@@ -58,7 +58,7 @@ Traditional blood donation systems often lack integration and real-time updates.
 
 ### 🖼️ Screenshots
 
-*Add screenshots of the home page, admin dashboard, donor certificate page, etc. here!*
+
 
 ---
 
