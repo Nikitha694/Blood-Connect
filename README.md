@@ -53,14 +53,8 @@ Traditional blood donation systems often lack integration and real-time updates.
    * Place the project folder in the `htdocs` (XAMPP) or your web root directory.
    * Start Apache and MySQL servers.
    * Access the app via `http://localhost/BloodConnect`.
-
 ---
 
-### 🖼️ Screenshots
-
-
-
----
-
+![Screenshot (77)](https://github.com/user-attachments/assets/6144ff4c-2ef0-4cec-9d14-bd5ed16546b5)
 
 
